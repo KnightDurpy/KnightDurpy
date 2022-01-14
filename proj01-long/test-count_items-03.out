@@ -1,0 +1,29 @@
+File to scan: STEP 1: THE ORIGINAL DICTIONARY
+  Key: create Value: 21
+  Key: data Value: 2
+  Key: generating Value: 0
+  Key: is Value: 66
+  Key: just Value: 55
+  Key: more Value: 14
+  Key: random Value: 43
+  Key: russ Value: -2
+  Key: testcases Value: 47
+  Key: to Value: 26
+
+STEP 2: A LIST OF VALUE->KEY TUPLES
+[(21, 'create'), (2, 'data'), (0, 'generating'), (66, 'is'), (55, 'just'), (14, 'more'), (43, 'random'), (-2, 'russ'), (47, 'testcases'), (26, 'to')]
+
+STEP 3: AFTER SORTING
+[(-2, 'russ'), (0, 'generating'), (2, 'data'), (14, 'more'), (21, 'create'), (26, 'to'), (43, 'random'), (47, 'testcases'), (55, 'just'), (66, 'is')]
+
+STEP 4: THE ACTUAL OUTPUT
+russ -2
+generating 0
+data 2
+more 14
+create 21
+to 26
+random 43
+testcases 47
+just 55
+is 66
