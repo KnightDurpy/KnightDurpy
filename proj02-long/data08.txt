@@ -1,0 +1,18 @@
+@ 080 Three blind mice. Traditional children's rhyme.  https://noobnotes.net/three-blind-mice-traditional/
+F# E D F# E D A G G F# A G G F# A ^D ^D ^C# B ^C# ^D A A A ^D ^D ^D ^C# B ^C# ^D A A A A ^D ^D ^C# B ^C# ^D A A A G F# E D
+
+@ 081 Titanium. David Guetta ft. Sia 2011. https://noobnotes.net/titanium-david-guetta-ft-sia/
+C C D F E C F F E E D D F C C D F E C C D .A C C D F E C G F E E D D F C D F E C C D .A D Bb Bb A E E A A E E E A E E F D Bb Bb A E E A A E E E A E E F D D ^D ^D ^C A A ^C ^C A A A ^F ^E ^D D ^D ^D ^C A A ^C ^C A A A ^F ^E ^D C D F E C D F F E E D D F C D F E C C D .A C D F E F F E E D D F C D F E C C D .A D Bb Bb A E E A A E E E A E E F D Bb Bb A E E A A E E E A E E F D D ^D ^D ^C A A ^C ^C A A A ^F ^E ^D D ^D ^D ^C A A ^C ^C A A A ^F ^E ^D A A A ^F ^E ^D ^C A F ^C A ^C A G G Bb A ^C A F ^C ^C A ^D ^C D ^D ^D ^C A A ^C ^C A A A ^F ^E ^D
+
+@ 082 Twinkle twinkle little star. Traditional children's rhyme. https://noobnotes.net/twinkle-twinkle-little-star-traditional/
+C C G G A A G F F E E D D C G G F F E E D G G F F E E D C C G G A A G F F E E D D C
+
+@ 083 Up on the housetop. Traditional children's rhyme.
+^D ^D ^E ^D B G B ^D ^E ^E ^D B A ^D ^D ^D ^D ^E ^D B A G B ^D ^E ^E ^E ^D ^D B A ^D G ^C ^C ^E ^D ^D ^D B A ^C ^C B ^D ^D G B ^D ^D ^E ^D B ^C ^D ^E ^D ^D ^E ^D B B A ^D G
+
+@ 084 Walking in the air. 
+A ^D ^D ^C ^C A A ^D ^D ^C ^C A F G G Bb Bb A A G D F F E E D A ^D ^D ^C ^C A A ^D ^D ^C ^C A F G G Bb Bb A A G D F F E E D ^D ^D ^C ^C A A ^D ^D ^C ^C A F G G Bb Bb A A G D F F E E D ^C# ^D E F G A B ^C ^D B G D# F G A Bb ^C A ^D ^C# A A ^D ^D ^C ^C A A ^D ^D ^C ^C A F G G Bb Bb A A G D F F E E D ^C# D E F G A B ^C ^D B G D# F G G A Bb ^C A ^D ^C# A A ^D ^D ^C ^C A A ^D ^D ^C ^C A F G G Bb Bb A A G D F F E E D
+
+@ 085 Wolves. Selena Gomez / Marshmello 2017. https://noobnotes.net/wolves-selena-gomez-marshmello/
+F# A A B E E E E E D E E E D E E D A F# F# A A B E E E D E E E E D E E D A F# ^D ^C# B ^C# B A B A F# A .A .A .B D F# .B D F# ^D ^C# B ^C# B A B A F# A A A .B D F# F# A B B B A B A A A E E E D E A E D E F# A E D E F# F# A B A B A B A A A E E E D E A E D E F# A E D E F# D ^D ^C# B A B A B A D C# B A B A B A E D E F# A E D E F# F# A B B B A B A A A E E E D E A E D E F# A E D E F# G F# E D D D F# A A B E E E D E E E E D E E D A F# F# A A B E E E E D E E E E D E E D A F# ^D ^C# B ^C# B A B A F# A .A .A .B D F# .B D F# ^D ^C# B ^C# B A B A F# A A A .B D F# F# A B B B A B A A A E E E D E A E D E F# A E D E F# F# A B A B A B A A A E E E D E A E D E F# A E D E F# D ^D ^C# B A B A B A D C# B A B A B A E D E F# A E D E F# F# A B B B A B A A A E E E D E A E D E F# A E D E F# G F# E D D
+
